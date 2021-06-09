@@ -1,0 +1,14 @@
+.header{
+	background-color: #ffc61a;
+	padding: 50px;
+	font-size: 25px;
+	color: white;
+	cursor: pointer;
+
+}
+.msg{
+	background-color: red;
+	padding: 50px;
+	text-align: center;
+	display: none;
+}
